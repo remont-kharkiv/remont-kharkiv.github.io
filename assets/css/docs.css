@@ -385,13 +385,13 @@ hr.soften2 {
 }
 .perks-title { font-size:16px; font-weight:bold; }
 .flexible-hours {
-	background: url('../img/flexible-hours.png') no-repeat left 7px;
+	background: url('../img/valik2.png') no-repeat left 7px;
 }
 .coffee-day {
-	background: url('../img/coffee-day.png') no-repeat left 7px;
+	background: url('../img/house2.png') no-repeat left 7px;
 }
 .personal-projects {
-	background: url('../img/personal-projects.png') no-repeat left 7px;
+	background: url('../img/basket2.png') no-repeat left 7px;
 }
 .question-section {
 	margin-bottom: 60px;
@@ -533,7 +533,7 @@ hr.soften2 {
 	color: #696969;
 	background: #f7f7f7;
 	border-bottom: solid 1px #e9e9e9;
-	text-align: center;
+	text-align: left;
 }
 #pricing .price-plan .info ul li .free {
 	display: inline-block;
@@ -2124,13 +2124,17 @@ div#output{display:none;}
 }
 #demo-side-bar
 {
-    border: 1px solid black;
-    background: #DDD;
-    color: #333;
+    border: 1px solid black;
+
+    background: #DDD;
+
+    color: #333;
+
     padding: 0 8px;
     display:block!important;
     top:50px!important;
-    position: absolute;
+    position: absolute;
+
     right: 0.7%;
 }
 #bsa-close
@@ -2149,4 +2153,5 @@ div#output{display:none;}
     display:none!important;
     }
  #ads-sidebar{margin-top:100px!important;}
-
+
+
